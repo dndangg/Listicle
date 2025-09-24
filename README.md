@@ -34,6 +34,8 @@ Here's a walkthrough of implemented required features:
 
 <img src="./a.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+http://i.imgur.com/YTHEXV1.gif
+
 GIF created with Imgur
 
 ## Notes
